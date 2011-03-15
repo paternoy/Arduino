@@ -6,6 +6,10 @@
  *      adfa
  */
 
+#include "WProgram.h"
+#include "WConstants.h"
+#include "HardwareSerial.h"
+#include "pins_arduino.h"
 
 /*
   AnalogReadSerial
